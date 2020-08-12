@@ -1,5 +1,5 @@
 # data science (coursera) Quarentena de Dados
-[Inicio](#O-que-precisamos)[Aula 1](#Aula-1) [Aula-2](#Aula-2) [Aula 3](#Aula-3) [Aula 4](#Aula-4) [Aula 5](#Aula-5)   
+[Inicio](#O-que-precisamos) [Aula 1](#Aula-1) [Aula-2](#Aula-2) [Aula 3](#Aula-3) [Aula 4](#Aula-4) [Aula 5](#Aula-5)   
 ## O que precisamos
 Não será preciso fazer qualquer intalação na máquina
 Você só precisa acessar o google collaboratory e desenvolver seu projeto.
@@ -26,6 +26,12 @@ Alguns lembretes e dicas:
 * No site do [INEP](http://portal.inep.gov.br/web/guest/microdados) você encontra a base completa dos dados do ENEM.
 * Faça os desafios deixados no final de cada aula.
 
+### Participantes:
+* Paulo Silveira - https://twitter.com/paulo_caelum e https://instagram.com/paulo_hipster
+* Guilherme Silveira - https://twitter.com/guilhermecaelum
+* Thais André - https://twitter.com/thais_tandre
+* Allan Spadini - https://twitter.com/allanspadini
+* Thiago Gonçalves - https://twitter.com/tgcsantos
 ## Aula 1
 ### Objetivos
 Nesta aula vamos realizar nossa primeira análise de dados e no final já seremos capazes de tirar algumas conclusões.
