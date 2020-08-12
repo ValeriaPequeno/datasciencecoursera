@@ -3,8 +3,8 @@
 ## Aquecimento
 Segue recomendações de alguns conteúdos que gostaríamos de recomendar para vocês começarem a ir pensando mais sobre o tema, enquanto a primeira aula não vem!
 ### Séries e Documentários:
-* The Age of AI (8 episódios de 30 a 40min) - Nessa série no YouTube, apresentada pelo “Homem de Ferro” Robert Downey Jr., a cada episódio exploramos uma face da Inteligência Artificial, em qual ponto estamos, quais as possibilidades e outros impactos que podem ser criados com sua implementação. Os episódios têm áudio em inglês e legendas em Português.
-* Alpha-Go - The Movie (Filme - 90min) - “Go” é um jogo chinês ancestral - apesar de ser um jogo de estratégia, como o xadrez, se diferencia por permitir uma grande diversidade de movimentos e estratégias possíveis para vencer. Quando as primeiras inteligências artificiais começaram a derrotar humanos no xadrez, esse passou a ser o grande desafio. O Documentário conta sobre o primeiro projeto de IA a vencer esse desafio. O filme tem áudio em inglês, legendas não estão disponíveis.
+* [The Age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) (8 episódios de 30 a 40min) - Nessa série no YouTube, apresentada pelo “Homem de Ferro” Robert Downey Jr., a cada episódio exploramos uma face da Inteligência Artificial, em qual ponto estamos, quais as possibilidades e outros impactos que podem ser criados com sua implementação. Os episódios têm áudio em inglês e legendas em Português.
+* [Alpha-Go](https://www.youtube.com/watch?v=WXuK6gekU1Y&feature=youtu.be) - The Movie (Filme - 90min) - “Go” é um jogo chinês ancestral - apesar de ser um jogo de estratégia, como o xadrez, se diferencia por permitir uma grande diversidade de movimentos e estratégias possíveis para vencer. Quando as primeiras inteligências artificiais começaram a derrotar humanos no xadrez, esse passou a ser o grande desafio. O Documentário conta sobre o primeiro projeto de IA a vencer esse desafio. O filme tem áudio em inglês, legendas não estão disponíveis.
 ### Conteúdos Gratuitos da Alura Sobre Data Science:
 #### Vídeos
 * [O que é Data Science?](https://www.youtube.com/watch?v=5b9Z8toVaAU&list=PLh2Y_pKOa4Ufs_KwjTdGBFH6b65ChApyD&index=53&t=0s)
@@ -31,7 +31,7 @@ Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites
 * Feito o login uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
 * Abra o notebook e boa diversão.
 
-Links das base de dados:
+### Links das base de dados:
 
 * Base com [títulos e generos do Movie Lens](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv).
 * Base de [notas do Movie Lens](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/ratings.csv).
@@ -39,12 +39,13 @@ Links das base de dados:
 * Base com [dados do ENEM](https://raw.githubusercontent.com/guilhermesilveira/enem-2018/master/MICRODADOS_ENEM_2018_SAMPLE_43278.csv).
 * Estes ficheiros também estão disponíveis localmente na pasta: data
 
-Alguns lembretes e dicas:
+### Alguns lembretes e dicas:
 
 * Se tiver dificuldades ao utilizar o Colab, acesse este [artigo da Alura](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar).
 * No site do [Movie Lens](https://grouplens.org/datasets/movielens/) você encontra a base completa de filmes.
 * No site do [INEP](http://portal.inep.gov.br/web/guest/microdados) você encontra a base completa dos dados do ENEM.
 * Faça os desafios deixados no final de cada aula.
+* Sites com competições de data science e machine learning:[drivendata](https://www.drivendata.org/) e [Kaggle](https://www.kaggle.com/)
 
 ### Participantes:
 * Paulo Silveira - https://twitter.com/paulo_caelum e https://instagram.com/paulo_hipster
@@ -278,10 +279,6 @@ Descobrir os generos dos filmes (quais são eles, únicos). (esse aqui o bicho p
 Contar o número de aparições de cada genero.
 #### Desafio 7 (do Guilherme Silveira)
 Plotar o gráfico de aparições de cada genero. Pode ser um gráfico de tipo igual a barra.
-### Links interessantes:
-Competições de data science e machine learning:
-[drivendata](https://www.drivendata.org/)
-[Kaggle](https://www.kaggle.com/)
 ## Aula 2
 ## Aula 3
 ## Aula 4
