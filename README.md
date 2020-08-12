@@ -279,6 +279,8 @@ Descobrir os generos dos filmes (quais são eles, únicos). (esse aqui o bicho p
 Contar o número de aparições de cada genero.
 #### Desafio 7 (do Guilherme Silveira)
 Plotar o gráfico de aparições de cada genero. Pode ser um gráfico de tipo igual a barra.
+### Minha solução:
+[Aula 1](https://colab.research.google.com/drive/1yp1xW4_hwER3xQx0wQqTx3jNP_Ll97I9#scrollTo=atZJKz3WD2TX)
 ## Aula 2
 ## Aula 3
 ## Aula 4
