@@ -1,5 +1,25 @@
 # data science (coursera) Quarentena de Dados
-[Inicio](#O-que-precisamos) [Aula 1](#Aula-1) [Aula-2](#Aula-2) [Aula 3](#Aula-3) [Aula 4](#Aula-4) [Aula 5](#Aula-5)   
+[Aquecimento](#Aquecimento) [Inicio](#O-que-precisamos) [Aula 1](#Aula-1) [Aula-2](#Aula-2) [Aula 3](#Aula-3) [Aula 4](#Aula-4) [Aula 5](#Aula-5)   
+## Aquecimento
+Segue recomendações de alguns conteúdos que gostaríamos de recomendar para vocês começarem a ir pensando mais sobre o tema, enquanto a primeira aula não vem!
+### Séries e Documentários:
+* The Age of AI (8 episódios de 30 a 40min) - Nessa série no YouTube, apresentada pelo “Homem de Ferro” Robert Downey Jr., a cada episódio exploramos uma face da Inteligência Artificial, em qual ponto estamos, quais as possibilidades e outros impactos que podem ser criados com sua implementação. Os episódios têm áudio em inglês e legendas em Português.
+* Alpha-Go - The Movie (Filme - 90min) - “Go” é um jogo chinês ancestral - apesar de ser um jogo de estratégia, como o xadrez, se diferencia por permitir uma grande diversidade de movimentos e estratégias possíveis para vencer. Quando as primeiras inteligências artificiais começaram a derrotar humanos no xadrez, esse passou a ser o grande desafio. O Documentário conta sobre o primeiro projeto de IA a vencer esse desafio. O filme tem áudio em inglês, legendas não estão disponíveis.
+### Conteúdos Gratuitos da Alura Sobre Data Science:
+#### Vídeos
+* [O que é Data Science?](https://www.youtube.com/watch?v=5b9Z8toVaAU&list=PLh2Y_pKOa4Ufs_KwjTdGBFH6b65ChApyD&index=53&t=0s)
+* [O que é Machine Learning?](https://www.youtube.com/watch?v=Iuz_jc96bQk)
+* [O que é Deep Learning?](https://www.youtube.com/watch?v=kryIBKPVZ7A)
+ 
+### Podcasts
+* [Machine Learning](https://hipsters.tech/machine-learning-hipsters-88/)
+* [Data Science e Política na Operação Serenata de amor](https://hipsters.tech/data-science-e-politica-na-operacao-serenata-de-amor-hipsters-62/)
+* [Casos bacanas de Data Science](https://hipsters.tech/casos-bacanas-de-data-science-hipsters-106/)
+* [Data Science, Campeonatos e desafios](https://hipsters.tech/data-science-campeonatos-e-desafios-hipsters-ponto-tech-180/)
+* [Machine Learning e MLOps]()
+* [Redes Neurais]()
+* [Testes de Software e Inteligência Artificial]()
+
 ## O que precisamos
 Não será preciso fazer qualquer intalação na máquina
 Você só precisa acessar o google collaboratory e desenvolver seu projeto.
@@ -258,6 +278,10 @@ Descobrir os generos dos filmes (quais são eles, únicos). (esse aqui o bicho p
 Contar o número de aparições de cada genero.
 #### Desafio 7 (do Guilherme Silveira)
 Plotar o gráfico de aparições de cada genero. Pode ser um gráfico de tipo igual a barra.
+### Links interessantes:
+Competições de data science e machine learning:
+[drivendata](https://www.drivendata.org/)
+[Kaggle](https://www.kaggle.com/)
 ## Aula 2
 ## Aula 3
 ## Aula 4
