@@ -285,6 +285,10 @@ Disponível no meu drive (pasta: dataScience_quarentenaDeDados)
 ### Minha solução:
 [Aula 1](https://colab.research.google.com/drive/1yp1xW4_hwER3xQx0wQqTx3jNP_Ll97I9#scrollTo=atZJKz3WD2TX)
 ## Aula 2
+### Objetivos
+Chegou a hora de aprender sobre média, medianas e sobre as boas práticas na hora de exibir dados. Vamos juntos!!
+### Introdução
+
 ## Aula 3
 ## Aula 4
 ## Aula 5
