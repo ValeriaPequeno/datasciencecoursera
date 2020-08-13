@@ -283,11 +283,25 @@ Plotar o gráfico de aparições de cada genero. Pode ser um gráfico de tipo ig
 [Aula 1](https://drive.google.com/file/d/1Ys3KE7JIKFcx1gX8W27FucjYleayTDsN/view?usp=sharing)
 Disponível no meu drive (pasta: dataScience_quarentenaDeDados)
 ### Minha solução:
-[Aula 1](https://colab.research.google.com/drive/1yp1xW4_hwER3xQx0wQqTx3jNP_Ll97I9#scrollTo=atZJKz3WD2TX)
+[Colab](https://colab.research.google.com/drive/1yp1xW4_hwER3xQx0wQqTx3jNP_Ll97I9#scrollTo=atZJKz3WD2TX)
+[GitHub](#meusNotebooks/quarentenaDeDados_aula1_vmp.ipynb)
 ## Aula 2
 ### Objetivos
 Chegou a hora de aprender sobre média, medianas e sobre as boas práticas na hora de exibir dados. Vamos juntos!!
 ### Introdução
+As respostas para os desafios da aula 01 você encontra neste notebook.
+
+Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
+
+* Acesse o notebook da [aula02](https://colab.research.google.com/drive/1pWce_y_rcVMyyjcqYnOC1Vur4CtuJp97) (Também disponível neste gitHub).
+* Na parte superior esquerdo, clique em >File, logo depois em >Save a copy in Drive.
+* Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login de em uma conta google.
+* Feito o login uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
+* Abra o notebook e boa diversão.
+
+### Aula gravada
+Aula 2 - Disponível no meu drive (pasta: dataScience_quarentenaDeDados)
+### Minha solução:
 
 ## Aula 3
 ## Aula 4
